@@ -9,3 +9,6 @@ A simple Python game where the user has to guess a secret number.
 
 ## Run
 python GuessTheNumber.py
+
+## Author
+Ayush Sah
